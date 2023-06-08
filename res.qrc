@@ -1,0 +1,43 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>imag/pest.png</file>
+    <file>imag/user.png</file>
+    <file>imag/aboutus.png</file>
+    <file>imag/garden.png</file>
+    <file>imag/7.png</file>
+    <file>imag/123.png</file>
+    <file>imag/bj.png</file>
+    <file>imag/bj1.png</file>
+    <file>imag/chongwu.png</file>
+    <file>imag/close.png</file>
+    <file>imag/close1.png</file>
+    <file>imag/dd.png</file>
+    <file>imag/design.png</file>
+    <file>imag/doc2docx.png</file>
+    <file>imag/fertilize.png</file>
+    <file>imag/garden-center-11.png</file>
+    <file>imag/gardening.png</file>
+    <file>imag/ggg.png</file>
+    <file>imag/hardware.png</file>
+    <file>imag/help.png</file>
+    <file>imag/icon.jpg</file>
+    <file>imag/ipr1.jpg</file>
+    <file>imag/ipr6.jpg</file>
+    <file>imag/jiance.png</file>
+    <file>imag/message.png</file>
+    <file>imag/openfile.png</file>
+    <file>imag/openfile1.png</file>
+    <file>imag/openfile2.png</file>
+    <file>imag/seting.png</file>
+    <file>imag/shouhuo.png</file>
+    <file>imag/submit.png</file>
+    <file>imag/text.png</file>
+    <file>imag/time.png</file>
+    <file>imag/tt.png</file>
+    <file>imag/wether.png</file>
+    <file>imag/worning.jpg</file>
+    <file>imag/wuren.png</file>
+    <file>imag/xunjian.png</file>
+    <file>imag/端口错误警告.png</file>
+  </qresource>
+</RCC>
